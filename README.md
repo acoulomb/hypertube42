@@ -36,6 +36,8 @@ Grade: 125/100
     <img width="120" height='120' src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
 </a>
 
+- API RESTful
+
 ## Preview
 
 #### Login Page
