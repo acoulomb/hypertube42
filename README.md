@@ -15,6 +15,8 @@ WARNING: This wesite has no commercial aim, it is a school project for pedagogic
 
 - [Contributors](#contributors)
 - [Dev environment](#dev-environment)
+- [Objectives](#objectives)
+- [Skills](#skills)
 - [Preview](#preview)
 - [Demo](#demo)
 
@@ -37,6 +39,17 @@ Grade: 125/100
 </a>
 
 - [API RESTful : postman documentation](https://documenter.getpostman.com/view/6363897/S11RKFVL)
+
+## Objectives
+- Framework MVC 
+- Omniauth 
+- Background jobs 
+- Internationalisation
+
+## Skills
+- Group & interpersonal 
+- Web 
+- DB & Data
 
 ## Preview
 
