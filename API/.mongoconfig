@@ -1,0 +1,12 @@
+{
+  "host": "51.38.34.6",
+  "port": "27017",
+  "db": "hypertube",
+  "auth": {
+    "enable": true,
+    "source": "admin",
+    "username": "root",
+    "password": "OOxDmA9g"
+  },
+  "options": {}
+}
