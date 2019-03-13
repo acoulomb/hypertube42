@@ -9,7 +9,7 @@ The player is directly integrated to the site, and the videos are downloaded thr
 The research engine interrogates multiple external sources our choice, like for example http://www.legittorrents.info, or even https://archive.org.
 Once the element selected, it will be downloaded from the server and streamed on the web player at the same time. Which means that the player won’t only show the video once the download is completed, but will be able to stream directly the video feed.
 
-For further information, please read hypertube.en.pdf.
+For further information, please read [hypertube.en.pdf](https://github.com/acoulomb/hypertube42/blob/master/hypertube.en.pdf).
 
 WARNING: This wesite has no commercial aim, it is a school project for pedagogic purpose. It was never meant to run in production and will never be. Any use of it is your responsibility and you should not put it online.
 
@@ -30,12 +30,20 @@ Grade: 125/100
     <img width="150" height='90' src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
 </a>
 
+<a href="https://www.npmjs.com" target="_blank">
+    <img width="100" height='50' style="display: none" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png">
+</a>
+
 <a href="https://www.mongodb.com/" target="_blank">
     <img width="150" height='40' src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg">
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
     <img width="120" height='120' src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+</a>
+
+<a href="https://redux.js.org/" target="_blank">
+    <img width="120" height='120' src="https://redux.js.org/img/redux.svg">
 </a>
 
 - [API RESTful : postman documentation](https://documenter.getpostman.com/view/6363897/S11RKFVL)
